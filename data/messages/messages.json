@@ -1,0 +1,142 @@
+[
+  {
+    "createdAt": "2021-11-25T12:18:57.208Z",
+    "message": "Tempora aspernatur quaerat cumque necessitatibus.",
+    "receiverId": "2",
+    "id": "1",
+    "senderId": "1"
+  },
+  {
+    "createdAt": "2021-11-25T15:26:33.436Z",
+    "message": "Harum beatae explicabo.",
+    "receiverId": "3",
+    "id": "2",
+    "senderId": "2"
+  },
+  {
+    "createdAt": "2021-11-25T21:55:29.995Z",
+    "message": "Dolor amet et molestiae quaerat rerum minus iste enim odio.",
+    "receiverId": "1",
+    "id": "3",
+    "senderId": "3"
+  },
+  {
+    "createdAt": "2021-11-26T03:09:45.900Z",
+    "message": "Corrupti et eos omnis eveniet vitae pariatur error quo deserunt.",
+    "receiverId": "1",
+    "id": "4",
+    "senderId": "4"
+  },
+  {
+    "createdAt": "2021-11-26T09:15:42.912Z",
+    "message": "Quo distinctio sint blanditiis.",
+    "receiverId": "1",
+    "id": "5",
+    "senderId": "5"
+  },
+  {
+    "createdAt": "2021-11-27T06:42:02.172Z",
+    "message": "Eligendi cum impedit.",
+    "receiverId": "2",
+    "id": "6",
+    "senderId": "6"
+  },
+  {
+    "createdAt": "2021-11-27T06:38:39.424Z",
+    "message": "Omnis itaque vel architecto incidunt eaque.",
+    "receiverId": "5",
+    "id": "7",
+    "senderId": "1"
+  },
+  {
+    "createdAt": "2021-11-27T07:16:37.817Z",
+    "message": "Impedit eum distinctio minus nihil nisi.",
+    "receiverId": 6,
+    "id": "8",
+    "senderId": "2"
+  },
+  {
+    "createdAt": "2021-11-27T12:38:30.049Z",
+    "message": "Voluptatem occaecati consequatur pariatur quidem repellat.",
+    "receiverId": "1",
+    "id": "9",
+    "senderId": "3"
+  },
+  {
+    "createdAt": "2021-11-27T21:11:57.106Z",
+    "message": "Aut ut possimus fugiat atque.",
+    "receiverId": "3",
+    "id": "10",
+    "senderId": "1"
+  },
+  {
+    "createdAt": "2021-11-28T09:52:46.662Z",
+    "message": "Quia nesciunt voluptas tenetur.",
+    "receiverId": "3",
+    "id": "11",
+    "senderId": "2"
+  },
+  {
+    "createdAt": "2021-11-29T16:46:39.067Z",
+    "message": "Illo placeat ad quibusdam quo.",
+    "receiverId": "1",
+    "id": "12",
+    "senderId": "3"
+  },
+  {
+    "createdAt": "2021-11-30T04:16:42.642Z",
+    "message": "Et sit laborum exercitationem eveniet qui facilis esse velit et.",
+    "receiverId": "1",
+    "id": "13",
+    "senderId": "4"
+  },
+  {
+    "createdAt": "2021-12-02T11:56:37.965Z",
+    "message": "Soluta ratione dolore et.",
+    "receiverId": "5",
+    "id": "14",
+    "senderId": "1"
+  },
+  {
+    "createdAt": "2021-12-03T14:56:08.235Z",
+    "message": "Atque inventore maiores.",
+    "receiverId": "1",
+    "id": "15",
+    "senderId": "2"
+  },
+  {
+    "createdAt": "2021-12-04T15:18:24.615Z",
+    "message": "Ut quaerat fugit dolorem nulla tenetur.",
+    "receiverId": 6,
+    "id": "16",
+    "senderId": "3"
+  },
+  {
+    "createdAt": "2021-12-04T18:56:24.587Z",
+    "message": "Eum alias non iure ut consequuntur enim.",
+    "receiverId": 6,
+    "id": "17",
+    "senderId": "4"
+  },
+  {
+    "createdAt": "2021-12-04T21:06:18.402Z",
+    "message": "Ut et qui tempora quidem a molestias quia omnis.",
+    "receiverId": "1",
+    "id": "18",
+    "senderId": "5"
+  },
+  {
+    "createdAt": "2021-12-05T04:27:18.654Z",
+    "message": "Deserunt fugiat ut.",
+    "receiverId": "1",
+    "id": "19",
+    "senderId": "6"
+  },
+  {
+    "createdAt": "2021-12-06T02:30:13.552Z",
+    "message": "Labore sunt molestiae aperiam non delectus neque qui.",
+    "receiverId": "2",
+    "id": "20",
+    "senderId": "1"
+  }
+]
