@@ -13,6 +13,8 @@ def main() -> None:
     transformed_users_data = transformed_users_data.withColumn('email', F.regexp_replace(F.col('email'), pattern='(?s).*@',replacement="@"))
     transformed_users_data = transformed_users_data.withColumn('address', F.md5(col='address'))
     transformed_users_data = transformed_users_data.withColumn('birthDate', F.md5(col='birthDate'))
+    transformed_users_data = transformed_users_data.withColumn('firstname', F.md5(col='firstname'))
+    transformed_users_data = transformed_users_data.withColumn('lastname', F.md5(col='lastname'))
     #transformed_users_data.show()
     write_data(df=transformed_users_data,write_format='snowflake',credentials=credential_properties,table_name='users',write_mode='overwrite')
     messages_data = read_data(spark=spark_cluster,options={"multiLine": True},mode='permissive',file_format='json',file_path=files['messages'])
