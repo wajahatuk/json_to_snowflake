@@ -1,4 +1,4 @@
-# spark_network
+# API(JSON) to Snowflake
 
 1. Make sure you have pyspark package.
 2. Pip install all the required packages.
